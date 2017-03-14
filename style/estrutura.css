@@ -1,0 +1,64 @@
+/* CSS Document */
+
+header {
+	position:absolute;
+	margin-top:10px;
+	margin: auto;
+	float: left;
+	
+}
+
+
+header h1 {
+	font-size:18px; color:#454444;
+	font-weight: bold;
+	font-family:"berkshire-swash";
+	margin-top:10px;
+	margin-left: 80px;
+	}
+h2 {
+	font-size:28px; color:#454444;
+	font-weight: bold;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+p {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:12px; 
+	}
+.smalltext {
+	width:400px;
+	text-align: justify;
+	margin-top:200px;
+	margin-left: 145px;
+	}
+nav {
+	margin-left: 880px;
+	margin-top:10px;
+	}
+nav ul li{
+	float: left;
+}
+
+nav ul li a {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 18px; 
+	text-decoration: none;
+	margin-right: 25px;
+	font-family: "berkshire-swash";
+	color:#323131;
+	
+	}
+nav ul li a:hover{ color:#21B1B8;}
+
+nav ul { 
+	margin: 0 auto;
+	width: 960px;
+	list-style: none; 
+	}
+
+footer p li a {
+	text-decoration: none;
+	color: #60ADE5;
+}
+
+
